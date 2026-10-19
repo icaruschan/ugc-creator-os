@@ -1,0 +1,41 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+
+# Audio files
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+
+# PDF binary documents (track markdown prompts & guides instead)
+*.pdf
+
+# Course study dumps & renders
+.course-study/
+
+# Caches and runtime directories
+.uv-cache/
+.uv-cache-nlm/
+.uv-tools-nlm/
+.playwright-mcp/
+.tmp/
+.codex/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS & Editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+.idea/
+.vscode/

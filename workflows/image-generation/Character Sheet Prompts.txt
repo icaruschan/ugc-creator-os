@@ -1,0 +1,110 @@
+Character Sheet Prompts
+
+Create a professional character expression reference sheet using the woman from Reference Image 1 as the main identity reference. The final image should be arranged like Reference Image 2: a clean multi-panel grid on a single 16:9 canvas, with evenly spaced frames showing the same character in different expressions and gestures.
+Character consistency is critical: use the same young woman in every panel. She has a fair/light complexion, long wavy medium-brown hair, two thin braids framing the front of her face, light grey-green eyes, soft natural makeup, defined brows, and a friendly approachable look. She wears the same oversized beige hoodie with cream drawstrings in every panel. Keep the same face, same hair, same outfit, same proportions, and same lighting in every frame — only the facial expression and hand gesture should change.
+Background and layout: plain neutral light-gray studio-style background, very clean and minimal, evenly lit, no harsh shadows, no busy room details. The overall composition should look like a polished character sheet / expression board. Use a clean grid layout similar to a professional reference sheet, all panels aligned neatly on one 16:9 image.
+Framing: waist-up in every panel. Keep the camera angle straight-on and consistent. Photorealistic style, natural skin texture, sharp focus, clean realistic detail, subtle depth but overall studio clarity.
+Top row — 6 facial expressions (waist-up, hands relaxed or minimal)
+neutral and calm
+soft friendly smile
+talking/explaining expression, mouth slightly open mid-sentence
+concerned or slightly stressed expression
+serious / intense direct eye contact
+confident knowing smile
+Bottom row — 6 gestures / expressive actions (waist-up)
+holding a smartphone to her ear
+raising a smartphone toward the camera, screen visible
+pointing toward the camera
+open palms while explaining
+warning gesture with one index finger raised
+arms crossed confidently
+Style and quality: photorealistic, realistic corporate/social-media character sheet style, natural lighting, Sony A7R V camera look, 50mm lens look, 4K detail, clean sharp result, highly consistent identity across all panels.
+Important instruction: the final result must look like one cohesive expression sheet, not 12 different women. The character in every panel must clearly be the same person from Reference Image 1.
+Negative Prompt
+different person, inconsistent face, changing hairstyle, different hoodie, different eye color, different proportions, different lighting, distorted hands, extra fingers, blurry face, busy background, bedroom background, text, watermark, logo, cropped head, low quality, cartoon, illustration, over-retouched skin, unnatural expression
+
+
+
+Create a professional character expression reference sheet using the woman from Reference Image 1 as the main identity reference. The final image should be arranged like Reference Image 2: a clean multi-panel grid on a single 16:9 canvas, with evenly spaced frames showing the same character in different expressions and gestures.
+Character consistency is critical: use the same young woman in every panel. She has a fair/light complexion, long wavy medium-brown hair, two thin braids framing the front of her face, light grey-green eyes, soft natural makeup, defined brows, and a friendly approachable look. She wears the same oversized beige hoodie with cream drawstrings in every panel. Keep the same face, same hair, same outfit, same proportions, and same lighting in every frame — only the facial expression and hand gesture should change.
+Background and layout: plain neutral light-gray studio-style background, very clean and minimal, evenly lit, no harsh shadows, no busy room details. The overall composition should look like a polished character sheet / expression board. Use a clean grid layout similar to a professional reference sheet, all panels aligned neatly on one 16:9 image.
+Framing: waist-up in every panel. Keep the camera angle straight-on and consistent. Photorealistic style, natural skin texture, sharp focus, clean realistic detail, subtle depth but overall studio clarity.
+Top row — 6 facial expressions (waist-up, hands relaxed or minimal)
+neutral and calm
+soft friendly smile
+talking/explaining expression, mouth slightly open mid-sentence
+concerned or slightly stressed expression
+serious / intense direct eye contact
+confident knowing smile
+Bottom row — 6 gestures / expressive actions (waist-up)
+holding a smartphone to her ear
+raising a smartphone toward the camera, screen visible
+pointing toward the camera
+open palms while explaining
+warning gesture with one index finger raised
+arms crossed confidently
+Style and quality: photorealistic, realistic corporate/social-media character sheet style, natural lighting, Sony A7R V camera look, 50mm lens look, 4K detail, clean sharp result, highly consistent identity across all panels.
+Important instruction: the final result must look like one cohesive expression sheet, not 12 different women. The character in every panel must clearly be the same person from Reference Image 1.
+Negative Prompt
+different person, inconsistent face, changing hairstyle, different hoodie, different eye color, different proportions, different lighting, distorted hands, extra fingers, blurry face, busy background, bedroom background, text, watermark, logo, cropped head, low quality, cartoon, illustration, over-retouched skin, unnatural expression
+
+
+Character reference sheet, 4-panel grid layout on a clean light neutral background.
+Single consistent woman, early 30s, shown in 3/4 body framing (head to just below 
+the hips) across all panels.
+Panel layout:
+— Front view, facing directly forward
+— Right side profile, 90 degrees
+— Left side profile, 90 degrees
+— Back view, facing fully away
+Skin rendered with true-to-life texture — visible pores, subtle skin variation, 
+light surface imperfections, natural undertones, no smoothing, no retouching, 
+no digital airbrushing. Skin behaves like skin, not polished plastic or wax.
+Facial expressions are quiet and natural — soft neutral with relaxed lips and 
+jaw, or a barely-there genuine expression as if caught mid-thought. Nothing posed 
+or performed.
+Soft diffused daylight studio lighting, slight warm key light from upper left, 
+gentle fill to avoid harsh shadows. Hair loosely pulled back to keep jaw, neck, 
+and ear line clean for reference accuracy.
+Hyperrealistic, photographic, shot on Phase One IQ4 150MP, 85mm lens, f/2.8, 
+natural depth, film grain micro-texture, editorial reference quality.
+
+
+Claymation character reference sheet, stop-motion animation style, handcrafted clay aesthetic with visible texture and fingerprint marks on the surface. Character is a man in his late 20s, warm olive clay skin tone, short messy dark brown curly hair, light stubble, expressive dark clay eyes. Wearing a casual mustard yellow utility jacket over a charcoal gray t-shirt, dark blue jeans, and brown boots. Four panels on a warm off-white background: front view (full body), back view (full body), left side profile (full body), 3/4 angle (full body). Same clay textures, same warm earthy lighting across all panels. Matte clay material, soft warm studio lighting, subtle imperfections in the clay surface, visible thumbprint marks, Laika Studios quality, Aardman animation style, highly detailed, 8K render.
+
+
+
+Claymation character reference sheet, stop-motion animation style, handcrafted clay aesthetic with visible texture and fingerprint marks on the surface. Character is a young woman, age 24, light-warm beige clay skin tone, soft rounded facial features, wavy shoulder-length light brown hair, friendly approachable face, expressive wide blue clay eyes fully visible. Wearing a casual oversized light pink crew-neck t-shirt. Four panels on a warm off-white background: front view (full body), back view (full body), left side profile (full body), 3/4 angle (full body). Same clay textures, same warm earthy lighting across all panels. Matte clay material, soft warm studio lighting, subtle imperfections in the clay surface, visible thumbprint marks, Laika Studios quality, Aardman animation style, highly detailed, 8K render.
+
+
+A professional character reference sheet of the same woman in every panel, arranged as a clean grid on a single 16:9 aspect ratio plain neutral off-white background, evenly lit, no shadows. Consistent character: a Caucasian woman in her early 50s, natural appearance, mid-length salt-and-pepper wavy hair falling just past her shoulders, no glasses. She has faint natural facial maturity (subtle smile lines). She wears a casual, comfortable dark-colored knit sweater with no logos, text, or graphics. Same face, same hair, same clothes, same lighting in every panel — only the expression and head angle change.
+Top row — 4 facial expressions (chest-up): 1) neutral and calm, 2) talking passionately, 3) serious and authoritative, 4) confident knowing smile. Bottom row — 4 poses/gazes (chest-up): 1) looking directly at camera, 2) looking slightly off-camera to the right (conversational), 3) head tilted slightly emphasizing a point, 4) open palms gesturing while explaining.
+Photorealistic, raw candid photography style, natural skin with subtle pores and uneven tone, consistent realistic character style, grid layout. Negative prompt: different people, inconsistent face, changing hair, glasses, heavy makeup, plastic skin, beauty filter, airbrushed, logo, text watermark, headphones, microphone, distorted hands, extra fingers, busy background.
+
+
+Photorealistic character reference sheet, raw candid photography style, low_fi_smartphone feel. Subject is a young woman in her mid-20s, long straight golden-blonde hair, bright vivid blue eyes, natural face. She is wearing a modest dark crewneck sweater, fully covering her chest and shoulders. Four separate panels showing different angles: front view, back view, left side profile, 3/4 angle. Placed on a solid plain off-white background. Natural skin with subtle pores, uneven tone, soft surface texture, realistic under-eye texture, natural lip texture, faint vellus hairs. No studio softbox look, no beauty-filter smoothing, no waxy/plastic skin, no airbrushed cheeks.
+Negative prompt: smooth skin, plastic skin, waxy skin, fake pore pattern, airbrushed, beauty filter, low neckline, cleavage, phone interface, text, watermarks, professional studio lighting.
+
+Photorealistic character reference sheet, raw candid photography style, clear high-resolution camera capture. Subject is a young, highly attractive woman in her mid-20s, long wavy golden-blonde hair, clear complexion, bright blue eyes, friendly but stressed face. She is wearing a modern dark-gray blazer over a white silk blouse, and dark gray pants. Four separate panels showing different angles: front view (full body), back view (full body), left side profile (full body), 3/4 angle (full body). Placed on a solid plain off-white studio background. Same clothing textures, same natural lighting, no studio softbox look, no beauty-filter smoothing, no waxy/plastic skin, no airbrushed cheeks, highly detailed, 8K render. 
+Negative prompt: phone interface, phone UI, mobile status bar, battery icon, wifi icon, time display, header, edit button, share button, camera roll scrollbar, screenshot overlays, photo editor frame, black bars, borders, text, captions, watermark.
+
+
+Photorealistic character reference sheet, raw candid photography style, clear high-resolution camera capture. Subject is an attractive, commanding woman in her mid-30s, sharp features, neatly styled shoulder-length dark brown hair, intense dark eyes. She is wearing a sleek, form-fitting corporate black blazer and a matching charcoal pencil skirt. Four separate panels showing different angles: front view (full body), back view (full body), left side profile (full body), 3/4 angle (full body). Placed on a solid plain off-white studio background. Same clothing textures, same natural lighting, no studio softbox look, no beauty-filter smoothing, no waxy/plastic skin, no airbrushed cheeks, highly detailed, 8K render.
+Negative prompt: phone interface, phone UI, mobile status bar, battery icon, wifi icon, time display, header, edit button, share button, camera roll scrollbar, screenshot overlays, photo editor frame, black bars, borders, text, captions, watermark.
+
+
+Create a low-fidelity UGC character reference sheet in a clean 2-row by 4-column grid, 16:9 aspect ratio. Same woman in every panel, same face, same hair, same outfit, same body type, same lighting. Plain neutral apartment wall background, not studio, not polished.
+Subject: a relatable white woman in her late 20s to early 30s with an average everyday appearance, not a model, not glamorous, not overly attractive, believable as a normal TikTok creator filming from home. Medium-light skin with subtle redness, faint under-eye texture, visible subtle pores, uneven skin tone, realistic skin sheen, natural lip texture. Medium brown shoulder-length messy wavy hair with flyaways, casual unstyled texture. Slight natural facial asymmetry.
+Wardrobe: plain fitted white or light heather-gray long-sleeve top, casual crewneck or soft scoop neck, tucked naturally into mid-blue straight-leg denim jeans. No logos, no text, no graphics. Everyday casual fit, comfortable and believable.
+Camera reality: smartphone front-camera look, 26mm wide-angle feel, mild edge softness, slight barrel distortion, natural auto-exposure, small amount of sensor grain, casual camera-roll quality. Lighting is soft uneven window light mixed with indoor ambient light, not studio lighting.
+Top row expressions:
+1) neutral direct-to-camera
+2) wide-eyed shocked
+3) urgent explaining expression with one hand slightly raised
+4) serious intense expression
+Bottom row:
+1) casual half-smile
+2) head tilted in disbelief
+3) leaning forward intently
+4) confident nod expression
+Negative prompt: plastic skin, waxy skin, beauty filter, airbrushed skin, perfect symmetry, glam makeup, model face, influencer beauty look, studio portrait, cinematic lighting, DSLR sharpness, over-sharpening, fake pores, doll face, uncanny valley, different person in each panel, changing outfit, changing hair, logo, text, watermark, distorted hands, extra fingers.
